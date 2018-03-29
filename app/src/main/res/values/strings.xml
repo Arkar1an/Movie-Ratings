@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Ratings</string>
+    <string name="title_text_view">Title:</string>
+    <string name="date_text_view">Date:</string>
+    <string name="ask_text_view">Ask me later…</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+</resources>
